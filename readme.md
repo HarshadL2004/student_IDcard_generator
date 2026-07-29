@@ -35,23 +35,6 @@ Live link: <a href="https://student-id-generator.epizy.com/" target="_blank"> St
 - Log in and Log out functionality
 - Add, edit, select, remove and download students details
 
-#### Screen Shots
-
-#### Login
-![App Screenshot](images/screenshots/login.png)
-
-#### Dashboard
-![App Screenshot](images/screenshots/dashboard.png)
-
-#### Add Student Details
-![App Screenshot](images/screenshots/addStudent.png)
-
-#### Edit Student Details
-![App Screenshot](images/screenshots/editStudent.png)
-
-#### Download Student ID Card
-![App Screenshot](images/screenshots/downloadCard.png)
-
 
 
 
